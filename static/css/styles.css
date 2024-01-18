@@ -1,0 +1,11 @@
+body {
+    background-color: #d9d9d9;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding-top: 20px;
+}
